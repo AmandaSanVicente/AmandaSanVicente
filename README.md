@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey 👋, This is Amanda San Vicente
+[![Gmail Badge](https://img.shields.io/badge/-amanda.sanvicente@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda.sanvicente@gmail.com)](mailto:amanda.sanvicente@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/amanda-san-vicente-93086218a/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/amanda-san-vicente-93086218a//)](https://www.linkedin.com/in/https://www.linkedin.com/in/amanda-san-vicente-93086218a//) [![Github Badge](https://img.shields.io/badge/-https://github.com/AmandaSanVicente-grey?style=flat&logo=github&logoColor=white&link=https://github.com/https://github.com/AmandaSanVicente/)](https://www.github.com/https://github.com/AmandaSanVicente/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/AmandaSanVicente/)](https://github.com/AmandaSanVicente/) <p align='left'>With a passion for numbers and helpings others, I envision a career centered on making an impact. Along the way, I have come across a way to do so-Analysis! 
 
-<!--
-**AmandaSanVicente/AmandaSanVicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My career begin in customer service. I have been in different types of industries from auto loans, auto sales, cellular, sales referral, survey questionnaire, medical leave, dispatcher, to telecommunications. Over time I have seen how the impact that technology has on the different industries. This discovery sparked my interest in business intelligence analysis, where I could combine my customer service in the different industries with problem-solving to help build future solutions.
 
-Here are some ideas to get you started:
+To build my expertise, I completed the TripleTen Business Intelligence Analyst program, gaining hands-on experience in Power BI, Tableau, Python, and SQL full-stack development. Through real-world projects, I analyzed data and provided solutions that would help companies make future marketing decisions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now I am eager to apply my new skills as a business intelligence analyst to help with innovative solutions and to combine my knowledge in customer service to further assist in future developments. Outside of work, I love learning new ways to cook different types of meals and thinking outside the box for a meal. If I am not in the kitchen you can find me reading a book in a quite conner.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1IYrgjj92Ylyr1YTAKkM1apE7esPEPhsxjXD9K2EC1MM/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=https://github.com/AmandaSanVicente alt=https://github.com/AmandaSanVicente /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=https://github.com/AmandaSanVicente&show_icons=true&include_all_commits=true)](https://github.com/https://github.com/AmandaSanVicente/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AmandaSanVicente&layout=compact)](https://github.com/https://github.com/AmandaSanVicente/github-readme-stats)

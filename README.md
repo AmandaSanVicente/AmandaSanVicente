@@ -7,8 +7,3 @@ My career begin in customer service. I have been in different types of industrie
 To build my expertise, I completed the TripleTen Business Intelligence Analyst program, gaining hands-on experience in Power BI, Tableau, Python, and SQL full-stack development. Through real-world projects, I analyzed data and provided solutions that would help companies make future marketing decisions.  
 
 Now I am eager to apply my new skills as a business intelligence analyst to help with innovative solutions and to combine my knowledge in customer service to further assist in future developments. Outside of work, I love learning new ways to cook different types of meals and thinking outside the box for a meal. If I am not in the kitchen you can find me reading a book in a quite conner.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1IYrgjj92Ylyr1YTAKkM1apE7esPEPhsxjXD9K2EC1MM/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=https://github.com/AmandaSanVicente alt=https://github.com/AmandaSanVicente /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=https://github.com/AmandaSanVicente&show_icons=true&include_all_commits=true)](https://github.com/https://github.com/AmandaSanVicente/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AmandaSanVicente&layout=compact)](https://github.com/https://github.com/AmandaSanVicente/github-readme-stats)

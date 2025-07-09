@@ -1,6 +1,6 @@
 ## Hey 👋, This is Amanda San Vicente
 [![Gmail Badge](https://img.shields.io/badge/-amanda.sanvicente@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda.sanvicente@gmail.com)](mailto:amanda.sanvicente@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-amanda.sanvicente@gmail.com-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda.sanvicente@gmail.com/)](https://www.linkedin.com/in/amanda.sanvicente@gmail.com/) <p align='left'> 👋 Hi, I'm Amanda San Vicente
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/amandasan-vicente-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/amandasan-vicente/)](https://www.linkedin.com/in/https://www.linkedin.com/in/amandasan-vicente/) <p align='left'>### 👋 Hi, I'm Amanda San Vicente
 
 I’m an aspiring **Business Intelligence Analyst** who thrives at the intersection of **data, storytelling, and service**. Currently completing a BI program at **TripleTen**, I bring 8+ years of customer service and tech support experience—bridging people and technology with empathy and insight.
 
@@ -23,5 +23,6 @@ I’m an aspiring **Business Intelligence Analyst** who thrives at the intersect
 * **Superstore Return Dashboard** – Created a Tableau dashboard identifying root causes and trends in return behavior to reduce volume and costs.
 * **NYC Airbnb Market Analysis** – Analyzed property profitability by neighborhood and size to guide investment strategies.
 
-🌱 I’m always learning, building, and connecting. Let’s collaborate or share ideas—check out my projects
-</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1IYrgjj92Ylyr1YTAKkM1apE7esPEPhsxjXD9K2EC1MM/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
+🌱 I’m always learning, building, and connecting. Let’s collaborate or share ideas—check out my projects or connect with me on [LinkedIn](https://www.linkedin.com/in/amandasanvicente).
+
+</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1LzgTLtLQ9LwP5vYC9-i1GGF-0V_3_bTccrQ36WK9m5k/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>

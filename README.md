@@ -1,9 +1,27 @@
 ## Hey 👋, This is Amanda San Vicente
 [![Gmail Badge](https://img.shields.io/badge/-amanda.sanvicente@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda.sanvicente@gmail.com)](mailto:amanda.sanvicente@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/amanda-san-vicente-93086218a/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/amanda-san-vicente-93086218a//)](https://www.linkedin.com/in/https://www.linkedin.com/in/amanda-san-vicente-93086218a//) [![Github Badge](https://img.shields.io/badge/-https://github.com/AmandaSanVicente-grey?style=flat&logo=github&logoColor=white&link=https://github.com/https://github.com/AmandaSanVicente/)](https://www.github.com/https://github.com/AmandaSanVicente/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/AmandaSanVicente/)](https://github.com/AmandaSanVicente/) <p align='left'>With a passion for numbers and helpings others, I envision a career centered on making an impact. Along the way, I have come across a way to do so-Analysis! 
+[![Linkedin Badge](https://img.shields.io/badge/-amanda.sanvicente@gmail.com-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda.sanvicente@gmail.com/)](https://www.linkedin.com/in/amanda.sanvicente@gmail.com/) <p align='left'> 👋 Hi, I'm Amanda San Vicente
 
-My career begin in customer service. I have been in different types of industries from auto loans, auto sales, cellular, sales referral, survey questionnaire, medical leave, dispatcher, to telecommunications. Over time I have seen how the impact that technology has on the different industries. This discovery sparked my interest in business intelligence analysis, where I could combine my customer service in the different industries with problem-solving to help build future solutions.
+I’m an aspiring **Business Intelligence Analyst** who thrives at the intersection of **data, storytelling, and service**. Currently completing a BI program at **TripleTen**, I bring 8+ years of customer service and tech support experience—bridging people and technology with empathy and insight.
 
-To build my expertise, I completed the TripleTen Business Intelligence Analyst program, gaining hands-on experience in Power BI, Tableau, Python, and SQL full-stack development. Through real-world projects, I analyzed data and provided solutions that would help companies make future marketing decisions.  
+🔍 **What I Do Best**
 
-Now I am eager to apply my new skills as a business intelligence analyst to help with innovative solutions and to combine my knowledge in customer service to further assist in future developments. Outside of work, I love learning new ways to cook different types of meals and thinking outside the box for a meal. If I am not in the kitchen you can find me reading a book in a quite conner.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1IYrgjj92Ylyr1YTAKkM1apE7esPEPhsxjXD9K2EC1MM/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
+* Transform raw data into clear visual insights using **Power BI**, **Tableau**, and **SQL**
+* Communicate with impact in **English and Spanish**, with cultural fluency
+* Leverage customer-facing experience to surface user pain points and optimize experiences
+* Build stories with data that inform business decisions and promote inclusion
+
+🧠 **Projects That Reflect My Passion & Purpose**
+
+* **Hispanic Heritage ERG Slides** (Capital One) – Designed a dynamic, educational PowerPoint highlighting diverse Hispanic cultures across departments for an ERG celebration.
+* **E2P2 Pilot Program** – Led bilingual outreach to onboard customers, streamline online profile setup, and improve engagement for Capital One Auto Finance.
+* **Cox Complete Care** – Delivered advanced tech support for personal devices, educating customers and resolving complex issues to ensure long-term digital confidence.
+
+📊 **Technical Projects**
+
+* **E-Commerce Funnel & Retention Analysis** – Built a 3-stage funnel and retention cohorts in Excel using pivot tables, formulas, and cohort logic.
+* **Superstore Return Dashboard** – Created a Tableau dashboard identifying root causes and trends in return behavior to reduce volume and costs.
+* **NYC Airbnb Market Analysis** – Analyzed property profitability by neighborhood and size to guide investment strategies.
+
+🌱 I’m always learning, building, and connecting. Let’s collaborate or share ideas—check out my projects
+</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1IYrgjj92Ylyr1YTAKkM1apE7esPEPhsxjXD9K2EC1MM/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
